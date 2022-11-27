@@ -8,5 +8,5 @@
 今日天气：{{weather1.DATA}}
 当前温度：{{temperature1.DATA}}
 {{sid.DATA}}
-距离领导的生日还有{{birthday_lover.DATA}}天
+距离仙女的生日还有{{birthday_lover.DATA}}天
 ===家乡:{{city2.DATA}} 天气:{{weather2.DATA}}===
